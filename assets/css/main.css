@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+
+
+}
+
+
+h1{
+    color:white;
+
+
+}
+
+.first{
+
+color: black;
+text-align: left;
+justify-content: space-between;
+
+}
